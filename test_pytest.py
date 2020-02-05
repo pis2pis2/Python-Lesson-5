@@ -1,4 +1,4 @@
-number=int(input('Введите целое число от 1 до 1000: '))
+number=85
 if 1 <= number <= 1000:
     def _get_dividers(number):
         """
